@@ -1119,5 +1119,5 @@ if (command == '.gang')
    }
        
 });
-client.login('ODYxNTk1NDAzNTM0NDY3MDgy.YOMFPw.XH4LKQiPWeh2-ep931FcMNs2baI');
+client.login('ODYxNTk1NDAzNTM0NDY3MDgy.YOMFPw.XC2mhJNeIYkBkXIOtta4Q4JcTgM');
 
